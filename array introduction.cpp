@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
   
-    int arr[50], size, i, j, temp;
+    int arr[1000], size, i, j, temp;
     cin>>size;
     for(i=0; i<size; i++)
     {
